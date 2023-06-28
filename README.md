@@ -1,4 +1,5 @@
-# eplidr
+# eplidr 
+![Go Build](https://github.com/oppositemc/eplidr/actions/workflows/go.yml/badge.svg)
  
 Database lib
 
