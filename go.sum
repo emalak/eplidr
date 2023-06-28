@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/oppositemc/nonimus v0.0.0-20230628111146-5bb40f55730e h1:00ktfeiooRXIN6FIkL3Aodu5fAY6kwKdk2/k9b8aVOo=
+github.com/oppositemc/nonimus v0.0.0-20230628111146-5bb40f55730e/go.mod h1:S79chMQkkB3a8B7+cHK3reTTO+GglGT0Ez2am/LIt8w=
