@@ -64,6 +64,6 @@ Table1.Remove(id1+id2, eplidr.Keys{{"id1", id1}, {"id2", id2}})
 ### SingleKeyTable (one primary key) 
 ```
 Table2.Set(id, eplidr.Columns{
-		{"description", value},
-	})
+	{"description", value},
+})
 ```
