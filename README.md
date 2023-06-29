@@ -5,7 +5,7 @@ Database lib
 
 ## Setup connection
 ```
-db, err = sql.Open("mysql", "{user}:{password}@tcp(localhost:41091)/{db}")
+db, err = sql.Open("mysql", "{user}:{password}@tcp({ip}:{port})/{db}")
 if err != nil {
  penic(err)
 }
